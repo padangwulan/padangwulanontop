@@ -1,0 +1,5 @@
+
+📋 **Содержимое:**
+
+```txt
+Initial log entry - created project files
